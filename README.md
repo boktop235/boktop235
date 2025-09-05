@@ -11,7 +11,7 @@
     <h1>Привет всем</h1>
     <div class="languages">
             <h2><i class="fas fa-code"></i> Мои технологии</h2>
-            <img style = "fill: #f7df1e" src="images/javascript.svg" alt="JavaScript">  
+            <img src="images/javascript.svg" style="width: 100px; height: 100px;" alt="JavaScript">  
     <div>
 </body>
 </html>
