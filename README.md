@@ -33,6 +33,3 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/masat0kavabata)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:boktop235@icloud.com)
-
----
-![Profile views](https://komarev.com/ghpvc/?username=boktop235&style=flat-square&color=8A2BE2)
