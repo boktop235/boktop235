@@ -11,7 +11,7 @@
     <h1>Привет всем</h1>
     <div class="languages">
             <h2><i class="fas fa-code"></i> Мои технологии</h2>
-            <img src="https://raw.githubusercontent.com/boktop235/boktop235/main/images/javascript.svg" alt="JavaScript">  
+            <img src="images/javascript.svg" alt="JavaScript">  
     <div>
 </body>
 </html>
