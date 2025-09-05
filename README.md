@@ -10,10 +10,10 @@
 <div class="header">
     <h1>Привет всем</h1>
     <div class="languages">
-            <h2><i class="fas fa-code"></i> Мои технологии</h2>
-            <object type="image/svg+xml" data="picture.svg">
-  <img src="images/javascript.svg" alt="Фолбэк">
-</object>
+        <h2><i class="fas fa-code"></i> Мои технологии</h2>
+            <object type="image/svg+xml" data="picture.svg" style="fill: red">
+                <img src="images/javascript.svg" alt="Фолбэк">
+            </object>
     <div>
 </body>
 </html>
