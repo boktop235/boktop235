@@ -10,7 +10,7 @@
 <div class="header">
     <h1>Привет всем</h1>
 </div>
-<img src="javascript.svg" alt="Иконка JavaScript">
+<img src="images/javascript.svg" alt="Иконка JavaScript">
 </body>
 </html>
 
