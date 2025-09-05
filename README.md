@@ -11,7 +11,7 @@
     <h1>Привет всем</h1>
     <div class="languages">
             <h2><i class="fas fa-code"></i> Мои технологии</h2>
-            <img src="images/javascript.svg" style="width: 100px; height: 100px; fill: white" alt="JavaScript">  
+            <object type="image/svg+xml" data="images/javascript.svg" style="width: 100px; height: 100px; color: red;"></object> 
     <div>
 </body>
 </html>
